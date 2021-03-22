@@ -1,3 +1,10 @@
 #body {
-  background-color: thistle;
+  background-color: #d8bfd8;
+}
+
+#titre {
+  text-align: center;
+  color: #3f273f;
+  border-style: solid;
+  border-color: #3f273f;
 }
